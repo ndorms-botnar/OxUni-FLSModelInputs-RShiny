@@ -1,0 +1,14 @@
+name: OxUni-FLS-models-inputs
+title: OxUni-FLS-models-inputs
+username:
+account: trainingidn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6638029
+bundleId: 6418155
+url: https://trainingidn.shinyapps.io/OxUni-FLS-models-inputs/
+when: 1666164282.28314
+lastSyncTime: 1666164282.28314
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Master FLS Calculator KOL input sheet, v2.0 - Spain 20211005.xlsm|README.md
